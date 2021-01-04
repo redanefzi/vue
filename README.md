@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Tech
+
+vue uses a number of open source projects to work properly:
+
+* [Vuetify]
+* [vue-router]
